@@ -1,0 +1,6 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb03_SummaryPublisherApp\bin\Debug\Pb03_SummaryPublisherApp.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb03_SummaryPublisherApp\bin\Debug\Pb03_SummaryPublisherApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb03_SummaryPublisherApp\bin\Debug\Pb03_SummaryPublisherApp.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb03_SummaryPublisherApp\obj\Debug\Pb03_SummaryPublisherApp.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb03_SummaryPublisherApp\obj\Debug\Pb03_SummaryPublisherApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb03_SummaryPublisherApp\obj\Debug\Pb03_SummaryPublisherApp.pdb

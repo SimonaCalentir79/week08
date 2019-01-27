@@ -1,0 +1,6 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb04_CrudBookApp\bin\Debug\Pb04_CrudBookApp.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb04_CrudBookApp\bin\Debug\Pb04_CrudBookApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb04_CrudBookApp\bin\Debug\Pb04_CrudBookApp.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb04_CrudBookApp\obj\Debug\Pb04_CrudBookApp.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb04_CrudBookApp\obj\Debug\Pb04_CrudBookApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb04_CrudBookApp\obj\Debug\Pb04_CrudBookApp.pdb

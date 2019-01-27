@@ -1,0 +1,7 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb01_InsertPublisherApp\bin\Debug\Pb01_InsertPublisherApp.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb01_InsertPublisherApp\bin\Debug\Pb01_InsertPublisherApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb01_InsertPublisherApp\bin\Debug\Pb01_InsertPublisherApp.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb01_InsertPublisherApp\obj\Debug\Pb01_InsertPublisherApp.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb01_InsertPublisherApp\obj\Debug\Pb01_InsertPublisherApp.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb01_InsertPublisherApp\obj\Debug\Pb01_InsertPublisherApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb01_InsertPublisherApp\obj\Debug\Pb01_InsertPublisherApp.pdb
