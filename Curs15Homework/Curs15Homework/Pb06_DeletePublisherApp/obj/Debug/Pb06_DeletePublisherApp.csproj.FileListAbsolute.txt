@@ -4,3 +4,7 @@ D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb06_DeletePub
 D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb06_DeletePublisherApp\obj\Debug\Pb06_DeletePublisherApp.csproj.CoreCompileInputs.cache
 D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb06_DeletePublisherApp\obj\Debug\Pb06_DeletePublisherApp.exe
 D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb06_DeletePublisherApp\obj\Debug\Pb06_DeletePublisherApp.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb06_DeletePublisherApp\bin\Debug\UsefulData.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb06_DeletePublisherApp\bin\Debug\UsefulData.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb06_DeletePublisherApp\bin\Debug\UsefulData.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs15Homework\Curs15Homework\Pb06_DeletePublisherApp\obj\Debug\Pb06_DeletePublisherApp.csproj.CopyComplete

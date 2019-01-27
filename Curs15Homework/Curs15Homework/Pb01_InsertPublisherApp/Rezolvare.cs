@@ -10,24 +10,6 @@ namespace Pb01_InsertPublisherApp
 {
     internal class Rezolvare
     {
-        internal static void PrintPublisher()
-        {
-            SqlConnection connection = new SqlConnection { ConnectionString = "Data Source=.;Initial Catalog=Curs15BD;Integrated Security=True" };
-            connection.Open();
-
-            string printPublishers = "select PublisherID, NameOfPublisher from Publisher";
-            SqlCommand showPublishers = new SqlCommand(printPublishers);
-            showPublishers.Connection = connection;
-
-            SqlDataReader reader = showPublishers.ExecuteReader();
-            while (reader.Read())
-            {
-                Console.WriteLine($"\t {reader["PublisherID"]} - {reader["NameOfPublisher"]}");
-            }
-            reader.Close();
-            connection.Close();
-        }
-
         internal static void InsertPublisher(string publisherName)
         {
             SqlConnection connection = new SqlConnection { ConnectionString = "Data Source=.;Initial Catalog=Curs15BD;Integrated Security=True" };

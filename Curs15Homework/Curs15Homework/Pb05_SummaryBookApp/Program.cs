@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
+using UsefulData;
 
 namespace Pb05_SummaryBookApp
 {
@@ -13,7 +14,7 @@ namespace Pb05_SummaryBookApp
         static void Main()
         {
             Console.WriteLine("\n LIST OF BOOKS:");
-            Rezolvare.PrintBooks();
+            Data.PrintBooks();
 
             Console.WriteLine("\n Ex.1. Print books by entered year.");
             Rezolvare.PrintBooksByYear();

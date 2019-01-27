@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
+using UsefulData;
 
 namespace Pb06_DeletePublisherApp
 {
@@ -13,18 +14,18 @@ namespace Pb06_DeletePublisherApp
         static void Main()
         {
             Console.WriteLine("\n LIST OF PUBLISHERS:");
-            Rezolvare.PrintPublishers();
+            Data.PrintPublishers();
             Console.WriteLine("\n LIST OF BOOKS:");
-            Rezolvare.PrintBooks();
+            Data.PrintBooks();
             Console.WriteLine("\n\n ");
 
             Rezolvare.DeleteFromBookAndPublisher();
             Console.WriteLine("\n\n ");
 
             Console.WriteLine("\n LIST OF PUBLISHERS:");
-            Rezolvare.PrintPublishers();
+            Data.PrintPublishers();
             Console.WriteLine("\n LIST OF BOOKS:");
-            Rezolvare.PrintBooks();
+            Data.PrintBooks();
 
             Console.ReadLine();
         }

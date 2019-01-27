@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
+using UsefulData;
 
 namespace Pb04_CrudBookApp
 {
@@ -15,17 +16,17 @@ namespace Pb04_CrudBookApp
             Console.WriteLine("\n Ex.1. Insert new book using SQL Parameter for that and print the inserted id (Execute scalar with select identity).");
             Rezolvare.InsertBook();
             Console.WriteLine("\n");
-            Rezolvare.PrintBooks();
+            Data.PrintBooks();
 
             Console.WriteLine("\n Ex.2. Update a book (read id from console).");
             Rezolvare.UpdatePriceOfBook();
             Console.WriteLine("\n");
-            Rezolvare.PrintBooks();
+            Data.PrintBooks();
 
             Console.WriteLine("\n Ex.3. Delete a book (read id from console).");
             Rezolvare.DeleteFromBook();
             Console.WriteLine("\n");
-            Rezolvare.PrintBooks();
+            Data.PrintBooks();
 
             Console.WriteLine("\n Ex.4. Select a book (read id from console).");
             Rezolvare.PrintBookById();

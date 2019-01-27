@@ -10,23 +10,6 @@ namespace Pb05_SummaryBookApp
 {
     internal class Rezolvare
     {
-        internal static void PrintBooks()
-        {
-            SqlConnection connection = new SqlConnection { ConnectionString = "Data Source=.;Initial Catalog=Curs15BD;Integrated Security=True" };
-            connection.Open();
-
-            SqlCommand printBooks = new SqlCommand("select BookID, Title, YearOfPublish, Price, NameOfPublisher from Book b inner join Publisher p on b.PublisherID=p.PublisherID;");
-            printBooks.Connection = connection;
-            SqlDataReader reader = printBooks.ExecuteReader();
-            while (reader.Read())
-            {
-                Console.WriteLine($"\t id: {reader[0]}    title: '{reader[1]}'    year: {reader[2]},    price: {reader[3]} lei,    publisher '{reader[4]}'");
-            }
-            reader.Close();
-
-            connection.Close();
-        }
-
         internal static void PrintBooksByYear()
         {
             SqlConnection connection = new SqlConnection { ConnectionString = "Data Source=.;Initial Catalog=Curs15BD;Integrated Security=True" };
@@ -56,7 +39,6 @@ namespace Pb05_SummaryBookApp
                 Console.WriteLine($"\n There are no books published in {year}.");
             }
             reader.Close();
-
             connection.Close();
         }
 
@@ -99,7 +81,6 @@ namespace Pb05_SummaryBookApp
                 Console.WriteLine($"\t title: '{reader[1]}', year: {reader[2]}, price: {reader[3]}");
             }
             reader.Close();
-
             connection.Close();
         }
     }

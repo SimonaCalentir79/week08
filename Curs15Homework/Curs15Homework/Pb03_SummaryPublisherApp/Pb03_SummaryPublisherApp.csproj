@@ -50,5 +50,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UsefulData\UsefulData.csproj">
+      <Project>{2deb4bb0-4731-4465-8bf1-284388408fc8}</Project>
+      <Name>UsefulData</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
