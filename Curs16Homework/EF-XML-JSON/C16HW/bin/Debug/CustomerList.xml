@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomerClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomerClass>
+    <CustomerID>1</CustomerID>
+    <CustomerName>Customer 1</CustomerName>
+    <CustomerEmail>customer1@wantsome.com</CustomerEmail>
+  </CustomerClass>
+  <CustomerClass>
+    <CustomerID>2</CustomerID>
+    <CustomerName>Customer 2</CustomerName>
+    <CustomerEmail>customer2@gmail.com</CustomerEmail>
+  </CustomerClass>
+  <CustomerClass>
+    <CustomerID>3</CustomerID>
+    <CustomerName>Customer 3</CustomerName>
+    <CustomerEmail>customer3@yahoo.com</CustomerEmail>
+  </CustomerClass>
+  <CustomerClass>
+    <CustomerID>4</CustomerID>
+    <CustomerName>Customer 4</CustomerName>
+    <CustomerEmail>customer4@wantsome.com</CustomerEmail>
+  </CustomerClass>
+  <CustomerClass>
+    <CustomerID>5</CustomerID>
+    <CustomerName>Customer 5</CustomerName>
+    <CustomerEmail>customer5@wantsome.com</CustomerEmail>
+  </CustomerClass>
+  <CustomerClass>
+    <CustomerID>6</CustomerID>
+    <CustomerName>Customer 6</CustomerName>
+    <CustomerEmail>customer5@email.ro</CustomerEmail>
+  </CustomerClass>
+  <CustomerClass>
+    <CustomerID>7</CustomerID>
+    <CustomerName>Customer 7</CustomerName>
+    <CustomerEmail>customer7@wantsome.ro</CustomerEmail>
+  </CustomerClass>
+  <CustomerClass>
+    <CustomerID>8</CustomerID>
+    <CustomerName>Customer 8</CustomerName>
+    <CustomerEmail>customer8@gmail.com</CustomerEmail>
+  </CustomerClass>
+  <CustomerClass>
+    <CustomerID>9</CustomerID>
+    <CustomerName>Customer 7</CustomerName>
+    <CustomerEmail>customer7@wantsome.ro</CustomerEmail>
+  </CustomerClass>
+  <CustomerClass>
+    <CustomerID>10</CustomerID>
+    <CustomerName>Customer 8</CustomerName>
+    <CustomerEmail>customer8@gmail.com</CustomerEmail>
+  </CustomerClass>
+</ArrayOfCustomerClass>
